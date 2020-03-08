@@ -1,2 +1,2 @@
 # PESU-IO-Shell-Scripting
-week1-project
+week2-project
