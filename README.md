@@ -1,2 +1,3 @@
 # PESU-IO-Shell-Scripting
-week2-project
+final project: deleting-users.sh
+
